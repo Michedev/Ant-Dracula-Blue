@@ -1,7 +1,8 @@
 # Ant-Dracula-Blue
 I really like the overall impact of Ant-Dracula theme except one thing: the pink colour... so i changed to blue!
 #### In short
-Ant-Dracula-Blue is the original Ant-Dracula theme where the pink components are replaced with blue. I tested only Gnome 3.26, but they should work also for others Gtk-Based DE! 
+Ant-Dracula-Blue is the original Ant-Dracula theme where the pink components are replaced with blue.
+I tested only Gnome 3.26, but they should work also for others Gtk-Based DE! 
 #### Some pics
 ![](https://image.ibb.co/bBEVtS/Screenshot_from_2018_03_03_22_57_40.png "")
 ![](https://image.ibb.co/fVYtf7/Screenshot_from_2018_03_03_23_06_29.png "")
