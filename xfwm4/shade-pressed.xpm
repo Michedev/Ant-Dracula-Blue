@@ -6,7 +6,7 @@ static char *shade_pressed[] = {
 ". c #2D2E37",
 "X c #8F4C77",
 "o c #964F7D",
-"O c #FF79C6",
+"O c #3385F5",
 /* pixels */
 "............................",
 "                            ",
